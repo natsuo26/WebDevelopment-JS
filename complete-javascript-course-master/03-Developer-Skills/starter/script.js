@@ -1,6 +1,6 @@
 // Remember, we're gonna use strict mode in all scripts now!
 "use strict";
-//npm liveserver -g
+//npm install live-server -g
 //live-server
 // const xerolaz = 23;
 // console.log(xerolaz);
