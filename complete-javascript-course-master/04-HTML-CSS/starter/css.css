@@ -1,0 +1,43 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(238, 243, 172);
+    font-family: Arial;
+    font-size: 20px;
+    padding:5px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.first {
+    color: rgb(207, 16, 16);
+    text-align: center;
+}
+
+.second{
+    color:blue;
+}
+#yourName{
+    
+    background-color: rgb(48, 90, 128);
+    width: 400px;
+    padding: 5px;
+    margin:5px;
+    border: 5px solid rgb(107, 94, 94);
+}
+#yourName
+.box{
+    position:relative;
+    left: 10px;
+}
+
+input,button{
+    padding: 10px;
+    font-size: 16px;
+}
